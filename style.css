@@ -3,9 +3,20 @@ a {
 }
 
 .Containerhorizontal {
-    display: inline-flex
+    border-style: solid;
+    display: inline-flex;
+    border-bottom: 0px;
 }
 
 .Subtexto1 {
-    
+    align-content: end;
+}
+
+.Containervertical {
+    border-style: solid;
+    display: block;
+}
+
+.Titulo1 {
+    margin: 10px;
 }
